@@ -1,0 +1,15 @@
+[
+{
+  "model": "character_app.character",
+  "pk": 1,
+  "fields": {
+    "level": 1,
+    "char_class": "Warlock",
+    "health": 22,
+    "movement": 30,
+    "name": "Dammos",
+    "race": "tiefling",
+    "ability": "{\"STR\": 9, \"DEX\": 15, \"CON\": 16, \"INT\": 9, \"WIS\": 12, \"CHA\": 19}"
+  }
+}
+]
