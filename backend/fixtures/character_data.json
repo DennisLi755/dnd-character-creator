@@ -11,5 +11,18 @@
     "race": "tiefling",
     "ability": "{\"STR\": 9, \"DEX\": 15, \"CON\": 16, \"INT\": 9, \"WIS\": 12, \"CHA\": 19}"
   }
+},
+{
+  "model": "character_app.character",
+  "pk": 2,
+  "fields": {
+    "level": 1,
+    "char_class": "Wizard",
+    "health": 9,
+    "movement": 30,
+    "name": "Ravant",
+    "race": "Aasimar",
+    "ability": "{\"STR\": 9, \"DEX\": 16, \"CON\": 12, \"INT\": 18, \"WIS\": 14, \"CHA\": 12}"
+  }
 }
 ]
